@@ -1,0 +1,138 @@
+[
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\Source\\GladiatorArena\\AICharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\.vscode\\compileCommands_Default\\GladiatorArena.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\Source\\GladiatorArena\\AICharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\.vscode\\compileCommands_Default\\GladiatorArena.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\Source\\GladiatorArena\\ArenaCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\.vscode\\compileCommands_Default\\GladiatorArena.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\Source\\GladiatorArena\\ArenaCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\.vscode\\compileCommands_Default\\GladiatorArena.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\Source\\GladiatorArena\\GladiatorArena.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\.vscode\\compileCommands_Default\\GladiatorArena.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\Source\\GladiatorArena\\GladiatorArena.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\.vscode\\compileCommands_Default\\GladiatorArena.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\Source\\GladiatorArena\\GladiatorArena.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\.vscode\\compileCommands_Default\\GladiatorArena.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\Source\\GladiatorArena\\GladiatorArenaGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\.vscode\\compileCommands_Default\\GladiatorArena.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\Source\\GladiatorArena\\GladiatorArenaGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\.vscode\\compileCommands_Default\\GladiatorArena.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\Source\\GladiatorArena\\GladiatorArena_GameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\.vscode\\compileCommands_Default\\GladiatorArena.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\Source\\GladiatorArena\\GladiatorArena_GameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\.vscode\\compileCommands_Default\\GladiatorArena.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\Source\\GladiatorArena\\PickableItemBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\.vscode\\compileCommands_Default\\GladiatorArena.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\Source\\GladiatorArena\\PickableItemBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\.vscode\\compileCommands_Default\\GladiatorArena.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\Source\\GladiatorArena\\PickableWeapon.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\.vscode\\compileCommands_Default\\GladiatorArena.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\Source\\GladiatorArena\\PickableWeapon.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\.vscode\\compileCommands_Default\\GladiatorArena.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\Source\\GladiatorArena\\PlayerCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\.vscode\\compileCommands_Default\\GladiatorArena.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\Source\\GladiatorArena\\PlayerCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\sayan\\Documents\\Projects\\GladiatorArena\\.vscode\\compileCommands_Default\\GladiatorArena.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]

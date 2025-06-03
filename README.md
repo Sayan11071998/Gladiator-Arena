@@ -1,22 +1,53 @@
-# ***🚀 Gladiator Arena 🎮***
+# 🚀 Gladiator Arena
 
-I’m genuinely excited (and slightly entertained!) to share my latest Unreal Engine 5 project—Gladiator Arena! This project wasn’t just about leveling up my skills in 3D game design, C++, Blueprints, and AI systems—it was also unexpectedly hilarious watching tiny dwarfs run around with their little legs in the arena. Sometimes, game development gives you these surprising moments of fun, and this project definitely delivered!
+**Gladiator Arena** is a third-person action combat game built with **Unreal Engine 5**, where players step into the shoes of a hammer-wielding dwarf warrior. Built using both C++ and Blueprints, the project blends intense melee combat, AI strategy, and light-hearted character design to create a fun and challenging experience in a stylized arena setting.
 
-### **🎮 Game Features**
-- **⚔️ Third-Person Arena Combat:** Wield a hammer and shield in intense combat as dwarfs try to keep up! Watching the mix of serious combat with tiny-legged warriors definitely adds to the entertainment.
-- **🤖 Advanced Enemy AI:** Don’t be fooled by their size—the enemies may be small, but their brains aren’t. These guys team up like they're having an epic strategy meeting... with hammers.
-- **❤️‍🩹 Health & Damage System:** Every hit counts! Players and enemies have health points, but watching those little warriors take hits is just too cute.
-- **🔨 Hammer Mechanics:** Swinging a big hammer has never been this satisfying—especially when you see the enemies wobbling away after getting smashed!
-- **🔄 Game Restart Function:** Because sometimes, you just need to see those tiny legs running around the arena one more time.
+---
 
-### **🧠 Key Learnings**
-- **🎮 Core Gameplay Mechanics:** Mastered the fundamentals using Blueprints and C++.
-- **🏃‍♂️ Smooth Movement:** Implemented fluid movement for both characters and enemies—trust me, watching the dwarfs shuffle around was pretty adorable.
-- **🎥 Fluid Animations:** Developed smooth animations for player and enemy actions—because even tiny-legged gladiators deserve style!
-- **🧠 Advanced AI System:** Created challenging enemy behavior, even when I couldn’t stop laughing at their cute movements.
-- **🔄 Restart Functionality:** Added the ability to reset the game, for those times when you just can’t get enough of the tiny-legged warriors.
+## Game Features
 
-This project was filled with late nights, challenges, and more laughs than I expected. Sometimes, it’s the unexpected fun moments that remind me why I love game development so much. I’m super proud of how this turned out and can’t wait for the next adventure (maybe with more tiny-legged gladiators)! 💪
+### Third-Person Arena Combat  
+Engage in close-range, hammer-based combat in an arena setting. The stylized dwarf characters add a touch of humor to the otherwise intense battles.
+
+### Advanced Enemy AI  
+Enemies coordinate attacks, swarm the player, and respond dynamically to combat situations using Unreal’s AI systems. Despite their size, they pose a serious threat.
+
+### Health & Damage System  
+Players and enemies each have health bars, making every swing of the hammer impactful and requiring strategic play.
+
+### Hammer Mechanics  
+The player uses a heavy hammer to deal damage, with satisfying swing animations, impact feedback, and knockback effects on enemies.
+
+### Game Restart Functionality  
+Easily restart the game loop after defeat or to replay the experience. This functionality streamlines testing and adds replay value.
+
+---
+
+## Key Learnings
+
+- **Core Gameplay Mechanics**  
+  Implemented primary game systems using Blueprints and C++ for rapid iteration and custom logic.
+
+- **Character & Enemy Movement**  
+  Built smooth, responsive movement systems that enhanced player control and gave enemy AI realistic motion within the arena.
+
+- **Animation Systems**  
+  Created fluid and responsive animations for combat and movement, tailored to the unique proportions of dwarf characters.
+
+- **AI Development**  
+  Designed advanced AI behaviors using behavior trees, perception components, and blackboards to make combat challenging and dynamic.
+
+- **Game Flow Management**  
+  Implemented level reset and restart functionality, improving overall user experience and development efficiency.
+
+---
+
+## Conclusion
+
+**Gladiator Arena** was both a technical and creative success—allowing for deep exploration of AI behavior, animation, and combat systems, all while delivering moments of light-hearted fun. The project strengthened my development workflow in Unreal Engine and reinforced the importance of balancing gameplay mechanics with personality and humor.
+
+[![Watch the video](https://img.youtube.com/vi/5uRlJDbOfRQ/maxresdefault.jpg)](https://youtu.be/5uRlJDbOfRQ)
+### [Gameplay Video](https://youtu.be/5uRlJDbOfRQ)
 
 ![Gladiator_Arena_01](https://github.com/user-attachments/assets/74810316-abd8-4670-92f5-d098d0a396be)
 
